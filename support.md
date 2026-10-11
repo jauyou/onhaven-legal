@@ -82,7 +82,7 @@ Sync is paused while sample data is loaded, so the sample records aren't shared 
 
 **How do I delete my account?**
 
-In the app, open the last tab (**Account** or **Family**), scroll to the bottom, and tap **Delete Account**. Your account, its devices, and its invites are deleted from our server immediately. If you own a family that has other members, you'll first choose to transfer ownership or delete the family. Records on your device are kept. To remove them too, delete the app.
+In the app, open the last tab (**Account** or **Family**) and scroll to the bottom, or open **Family Sync**, then tap **Delete Account** and confirm with Face ID and Apple. Your account, its devices, and its invites are deleted from our server immediately. If you own a family that has other members, you'll first choose to transfer ownership or delete the family. Records on your device are kept. To remove them too, delete the app.
 
 If you can't access the app, email us from the address tied to your Apple ID (or your Apple private relay address), and we will delete your account within 30 days.
 

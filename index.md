@@ -110,7 +110,7 @@ We do not sell, rent, or share your data with advertisers or data brokers.
 | Encrypted family records on the server | Kept while the family exists. Deleted when the owner deletes the family, or when the last member leaves |
 | Server access logs | Automatically rotated, up to 30 days |
 
-**To delete your account:** open the last tab (**Account** or **Family**), scroll to the bottom, and tap **Delete Account**. If you are the owner of a family with other members, you'll first choose whether to transfer ownership or delete the family. Your records on this device are kept, and the app keeps working without an account.
+**To delete your account:** open the last tab (**Account** or **Family**) and scroll to the bottom, or open **Family Sync**, then tap **Delete Account**. You'll confirm with Apple once more, so we can also revoke Onhaven's *Sign in with Apple* access. If you are the owner of a family with other members, you'll first choose whether to transfer ownership or delete the family. Your records on this device are kept, and the app keeps working without an account.
 
 You can also stop Onhaven from using your Apple ID at any time: in iOS, open *Settings → Apple Account → Sign-In & Security → Sign in with Apple*. Onhaven signs out automatically when you do this.
 
