@@ -1,9 +1,10 @@
 ---
-title: Onhaven User Guide
+title: '<span translate="no">Onhaven</span> User Guide'
 permalink: /guide/
+description: 'Privacy policy, support and user guide for <span translate="no">Onhaven</span>.'
 ---
 
-# Onhaven User Guide
+# <span translate="no">Onhaven</span> User Guide {#onhaven-user-guide}
 
 [Privacy Policy](/onhaven-legal/) · [Support](/onhaven-legal/support/) · **User Guide**
 
@@ -11,10 +12,10 @@ permalink: /guide/
 
 **Last updated:** October 11, 2026
 
-Onhaven puts your investments, cash flow, and long-term goals in one place and evaluates them every quarter. All of it runs on your iPhone. This guide walks through each part of the app.
+<span translate="no">Onhaven</span> puts your investments, cash flow, and long-term goals in one place and evaluates them every quarter. All of it runs on your iPhone. This guide walks through each part of the app.
 
 - [1. Getting started](#1-getting-started)
-- [2. How Onhaven organizes time: quarters](#2-how-onhaven-organizes-time-quarters)
+- [2. How <span translate="no">Onhaven</span> organizes time: quarters](#s2)
 - [3. Portfolio](#3-portfolio)
 - [4. Cash Flow](#4-cash-flow)
 - [5. Evaluate](#5-evaluate)
@@ -26,19 +27,19 @@ Onhaven puts your investments, cash flow, and long-term goals in one place and e
 
 ## 1. Getting started
 
-The first time you open Onhaven, a short setup appears:
+The first time you open <span translate="no">Onhaven</span>, a short setup appears:
 
 1. **Family status.** Enter how many adults, children, and elders are in your household, and optionally the primary earner's age. The evaluation uses this to tailor its advice; for example, it recommends a larger emergency fund when you have dependents. You can skip this and fill it in later.
-2. **Sign in (optional).** Sign in with Apple is only needed if you want to sync with family members' devices. Tap **Not now** to use Onhaven entirely on this device.
+2. **Sign in (optional).** Sign in with Apple is only needed if you want to sync with family members' devices. Tap **Not now** to use <span translate="no">Onhaven</span> entirely on this device.
 3. **Explore with Sample Data.** Fills the app with a sample household so you can see every screen before entering your own numbers (see [Sample data](#10-sample-data)).
 
 There are four tabs along the bottom: **Portfolio**, **Cash Flow**, **Evaluate**, and **Account** (it's called **Family** once you join a family).
 
-## 2. How Onhaven organizes time: quarters
+## 2. How <span translate="no">Onhaven</span> organizes time: quarters {#s2}
 
-Onhaven records your finances by **year and quarter** (for example 2026 Q3). Holdings are a snapshot of what you held in a quarter. Income and expenses are totals for the quarter they belong to. Imported statements are filed under the quarter of their dates.
+<span translate="no">Onhaven</span> records your finances by **year and quarter** (for example 2026 Q3). Holdings are a snapshot of what you held in a quarter. Income and expenses are totals for the quarter they belong to. Imported statements are filed under the quarter of their dates.
 
-When a new quarter starts and an account has no statement yet, its holdings carry forward from the last quarter that had one. Onhaven marks these as carried forward, so you know they still need updating.
+When a new quarter starts and an account has no statement yet, its holdings carry forward from the last quarter that had one. <span translate="no">Onhaven</span> marks these as carried forward, so you know they still need updating.
 
 ## 3. Portfolio
 
@@ -52,10 +53,10 @@ The Portfolio tab shows your current position:
 ### Adding holdings
 
 - **Add Holding** (pencil icon): enter a symbol or name, the quantity, cost, and market value, and pick an account.
-- **Import from Statement**: choose a brokerage statement PDF or image. Onhaven reads the holdings and transactions and shows them for review. Nothing is saved until you tap **Import**. The review checks the holdings against the statement's own total. If they don't add up, import stays locked until you confirm you've checked the difference.
+- **Import from Statement**: choose a brokerage statement PDF or image. <span translate="no">Onhaven</span> reads the holdings and transactions and shows them for review. Nothing is saved until you tap **Import**. The review checks the holdings against the statement's own total. If they don't add up, import stays locked until you confirm you've checked the difference.
 - **Imported Statements**: lists every statement you've imported. If one was read wrong, you can delete the whole statement.
 
-Statement reading uses Apple Intelligence. When your device supports Apple's *Private Cloud Compute*, Onhaven uses it, because it reads long statements far more accurately. Otherwise it falls back to the on-device model. The import screen always tells you which one it's using. When the on-device model is used, every row starts unchecked so you can verify the numbers first.
+Statement reading uses Apple Intelligence. When your device supports Apple's *Private Cloud Compute*, <span translate="no">Onhaven</span> uses it, because it reads long statements far more accurately. Otherwise it falls back to the on-device model. The import screen always tells you which one it's using. When the on-device model is used, every row starts unchecked so you can verify the numbers first.
 
 ### Refreshing prices
 
@@ -66,9 +67,9 @@ Pull down on the Portfolio tab, or tap **Refresh Values**, to fetch current quot
 Cash Flow has four sections, chosen with the picker at the top:
 
 - **Income** and **Expenses**: add quarterly entries by hand, such as salary, bonuses, rent, or travel.
-- **Cards**: import a credit card statement PDF to record spending transaction by transaction. Onhaven checks the transactions against the totals printed on the statement. Payments to the card issuer are listed but aren't counted as spending.
+- **Cards**: import a credit card statement PDF to record spending transaction by transaction. <span translate="no">Onhaven</span> checks the transactions against the totals printed on the statement. Payments to the card issuer are listed but aren't counted as spending.
 - **Bank**: import a monthly bank statement PDF. Every row is checked against the running balance printed after it, so amounts and directions match the statement exactly. Here you can:
-  - Mark transfers between your own accounts so they aren't counted as income or spending. Onhaven pairs matching transfers automatically.
+  - Mark transfers between your own accounts so they aren't counted as income or spending. <span translate="no">Onhaven</span> pairs matching transfers automatically.
   - Choose whether a higher-than-usual salary payment counts as a bonus.
   - Tap **Suggest Categories** to have Apple Intelligence fill in categories for uncategorized rows. Suggestions are marked, so you can review them before importing.
 
@@ -81,7 +82,7 @@ Pick a quarter to see:
 - An **overall score** out of 100
 - **Cash flow**: savings rate, and emergency fund in months compared with the recommended number
 - **Investments**: net worth (with deposits and card debt factored in when imported), change from last quarter, and largest holding share
-- **Findings & Recommendations** from Onhaven's rule-based evaluation
+- **Findings & Recommendations** from <span translate="no">Onhaven</span>'s rule-based evaluation
 - **Goals**: see below
 - **AI Deep Analysis**: on devices with Apple Intelligence, tap **Generate AI Analysis** for a written summary of your situation. It runs on-device unless you turn on the larger cloud model.
 
@@ -91,7 +92,7 @@ The gear icon opens **Settings**: base currency, exchange rates, crypto settings
 
 ### Goals
 
-Add a goal with a target amount and the quarter you want it by, for example a home down payment or retirement. Onhaven shows whether your current assets and monthly savings get you there, and how much more you'd need each month. All goals share one pool of assets: the nearest deadline is funded first, so the same money is never counted twice. The recommended emergency fund is set aside and isn't counted toward goals.
+Add a goal with a target amount and the quarter you want it by, for example a home down payment or retirement. <span translate="no">Onhaven</span> shows whether your current assets and monthly savings get you there, and how much more you'd need each month. All goals share one pool of assets: the nearest deadline is funded first, so the same money is never counted twice. The recommended emergency fund is set aside and isn't counted toward goals.
 
 For the growth assumption, you can enter a rate yourself, or tap **Fetch Holdings' Price History** to derive one from your holdings' past five years or more. Only ticker symbols are sent.
 
@@ -104,11 +105,11 @@ For the growth assumption, you can enter a rate yourself, or tap **Fetch Holding
 
 ## 7. Crypto wallets
 
-Onhaven can track Solana wallets read-only. It never asks for a seed phrase and cannot move funds.
+<span translate="no">Onhaven</span> can track Solana wallets read-only. It never asks for a seed phrase and cannot move funds.
 
 1. In the Account tab, open a family member, tap **Add Account**, and choose **Wallet**.
 2. Paste the wallet's **public** address.
-3. Onhaven reads token balances, staking, and DeFi positions from the chain and values them in USD. Tap **Refresh Wallet** to update, or **Load Older Trades** to build up cost history.
+3. <span translate="no">Onhaven</span> reads token balances, staking, and DeFi positions from the chain and values them in USD. Tap **Refresh Wallet** to update, or **Load Older Trades** to build up cost history.
 
 Under **Settings → Crypto** you can set a private RPC (for example Helius) for faster, more reliable reads, add a Jupiter API key, choose where positions come from, and turn automatic refresh on or off. Keys are stored in this device's Keychain.
 
@@ -144,7 +145,7 @@ Turn on **Native Currency in Breakdowns** to show allocation groups in their own
 
 ## 10. Sample data
 
-Choose **Explore with Sample Data** during setup, or **Settings → Sample Data → Load Sample Data**. It fills Onhaven with ten quarters of a sample household. You can only load it while the app is empty and you're not in a family.
+Choose **Explore with Sample Data** during setup, or **Settings → Sample Data → Load Sample Data**. It fills <span translate="no">Onhaven</span> with ten quarters of a sample household. You can only load it while the app is empty and you're not in a family.
 
 While sample data is loaded:
 - Family sync is paused, so the sample records are never shared.
